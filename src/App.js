@@ -1,5 +1,3 @@
-import { Route } from "react-router-dom";
-import Login from "./containers/Login";
 import Navbar from "./components/Navbar";
 import Home from "./containers/Home";
 
